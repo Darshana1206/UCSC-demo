@@ -2,7 +2,7 @@
 
 int main()
 {
-	int n,arr[n];
+	int n,arr[20];
 	int i;
 	
 	printf("Enter the size of array: ");
